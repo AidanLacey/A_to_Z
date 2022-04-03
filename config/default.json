@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://ALacey:6s5UWp1jKjKmMqsg@cluster.cwast.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
